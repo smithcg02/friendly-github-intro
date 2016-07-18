@@ -1,49 +1,53 @@
 # Schedule
 
-Here's the roadmap for the workshop:
+Here's the roadmap for the workshop on 22nd July 2016
 
-**13:30 - 14:00 Postit session**
+**13:30 - 13:50 Postit session**
 
 * An interactive discussion on: 
     * Why is version control useful?
     * What do you do for version control at the moment?
     * Why do you want to learn about git and GitHub?
 
+**13:50 - 14:00 Welcome, code of conduct and learning objectives**
+
+* Code of conduct
+* Resources
+  * README
+  * webpage
+  * etherpad
+  * learning objectives
+
 **14:00 - 14:15: Introduction to version control with git and github**
 
 * Presentation: [Github - What, Why, & Welcome](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)
-    * What is version control?
-    * Why should you care?
-    * Using git and GitHub
-    * Glossary
+  * What is version control?
+  * Why should you care?
+  * Using git and GitHub
+  * Glossary
 
 **14:15 - 14:40: Exercise 1: Your first pull request**
 
 * Add your github username to the [workshop repository](https://github.com/KirstieJane/friendly-github-intro)
-    * Instructions: [Your first pull request](LINK)
+  * Instructions at [Exercise 1](LINK)
 
 **14:40 - 14:55: Setting up your first repository on GitHub**
 
-* Demo: [GitHub - Our First GitHub Project: Let’s get set up!](https://docs.google.com/presentation/d/1TkOLnznhfo_2sB4YnStyK8_Lo9WTgDt6xoRcMkyuJdY/edit?usp=sharing)
+* Presentation: [GitHub - Our First GitHub Project: Let’s get set up!](https://docs.google.com/presentation/d/1TkOLnznhfo_2sB4YnStyK8_Lo9WTgDt6xoRcMkyuJdY/edit?usp=sharing)
 
 **14:55 - 15:30: Exercise 2: Set up your project**
 
-[Github Essentials Guide](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/)
-
 * Add your github username to the [workshop repository](https://github.com/KirstieJane/friendly-github-intro)
-    * Instructions: [Your first pull request](LINK)
-
-* You will have an hour to play around in the GitHubverse - we will be around to help clarify and guide you through any questions you might have. 
-* To get a feeling for the workflow shown in the prior presentations, try to:
-	* Create a repo from scratch
-	* Make a README using markdown documenting what your project is about, who is involved, why it is interesting, how to get the project setup (e.g. what version of R, what packages are you using, links to references, and add a friendly gif, etc.) 
-	* Create some issues that need to be completed - add labels to them.
-	* Create a few commits
-	* Create a branch to experiment new features on:
-		* make a pull request to merge those changes into your "master" branch
-	* Revert a commit
-	* Celebrate! 
-
+  * Instructions: [Exercise 2](http://kirstiejane.github.io/friendly-github-intro/guides/github-essentials/)
+  * Create a repo from scratch
+  * Make a README using markdown 
+  * Create some issues that need to be completed - add labels to them.
+  * Create a few commits
+  * Create a branch to experiment new features on:
+    * make a pull request to merge those changes into your "master" branch
+    * Revert a commit
+  * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro)
+ 
 **15:30 - 15:45: Working locally using git**
 
 * Presentation: [The Github desktop application](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)

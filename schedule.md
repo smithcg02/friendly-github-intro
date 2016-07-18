@@ -2,28 +2,36 @@
 
 Here's the roadmap for the workshop:
 
-**9:30 - 10:00: Registration**
+**13:30 - 14:00 Postit session**
 
-* Coffee, tea, and cookies - Thanks UBC Library!!!!
+* An interactive discussion on: 
+    * Why is version control useful?
+    * What do you do for version control at the moment?
+    * Why do you want to learn about git and GitHub?
 
-**10:00 - 10:15: Introductions**
-
-* About us
-* About Mozilla Science Lab
-* Say "hello" to your table group
-* Code of Conduct
-
-**10:15 - 10:35: Github - What, Why, & Welcome**
+**14:00 - 14:15: Introduction to version control with git and github**
 
 * Presentation: [Github - What, Why, & Welcome](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)
+    * What is version control?
+    * Why should you care?
+    * Using git and GitHub
+    * Glossary
 
-**10:35 - 11:00: Getting Started With GitHub**
+**14:15 - 14:40: Exercise 1: Your first pull request**
+
+* Add your github username to the [workshop repository](https://github.com/KirstieJane/friendly-github-intro)
+    * Instructions: [Your first pull request](LINK)
+
+**14:40 - 14:55: Setting up your first repository on GitHub**
 
 * Demo: [GitHub - Our First GitHub Project: Let’s get set up!](https://docs.google.com/presentation/d/1TkOLnznhfo_2sB4YnStyK8_Lo9WTgDt6xoRcMkyuJdY/edit?usp=sharing)
 
-**11:00 - 12:00: Set Up Your First Project**
+**14:55 - 15:30: Exercise 2: Set up your project**
 
 [Github Essentials Guide](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/)
+
+* Add your github username to the [workshop repository](https://github.com/KirstieJane/friendly-github-intro)
+    * Instructions: [Your first pull request](LINK)
 
 * You will have an hour to play around in the GitHubverse - we will be around to help clarify and guide you through any questions you might have. 
 * To get a feeling for the workflow shown in the prior presentations, try to:
@@ -36,11 +44,14 @@ Here's the roadmap for the workshop:
 	* Revert a commit
 	* Celebrate! 
 
-**12:00 - 12:30: Lunch**
+**15:30 - 15:45: Working locally using git**
 
-* Pizza and drinks will be served (there will be some veg/gluten free options in case there are food allergies) - Thanks UBC Library (again)!
+* Presentation: [The Github desktop application](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)
+    * Key point one
+    * Key point two
+    * Key point three
 
-**12:30 - 1:45: Collaborating on GitHub**
+**15:45 - 16:15: Exercise 3: Sync your GitHub repository to your laptop**
 
 * Presentation + Demo: [Collaborating with GitHub](https://docs.google.com/presentation/d/1v-gIFtZhyXEIfsUbizvGc_X8UqeQJ8IlBtdRYeDnkbA/edit?usp=sharing)
 
@@ -48,36 +59,13 @@ Here's the roadmap for the workshop:
 * Group Exercise: Let's Plan a Party
 	* As a group we will work to plan a party - each table will be tasked with developing one of the details of the party (e.g. food, invitations, venue, etc) 
 
-**1:45 - 2:00: Share results / Feedback**
+**16:15 - 16:30: More things you can do with GitHub**
 
-* Share the results of the party planning
-* Share feedback on challenges, solutions, and recommendations
+* Presentation: [The Github desktop application](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)
+    * Host a project website
+    * Collaborating with open source projects
+    * Lead your own open source project
+ 
+**16:30 - 17:30: Freetime to play & ask questions**
 
-**2:00 - 2:15: Break Time**
-
-* [Open Source Stretch](https://github.com/mozillascience/working-open-workshop/issues/42)
-* Cookies, coffee, and tea break - Thanks UBC Library!  Our fueling heroes of the day!
-
-
-**2:15 - 2:45: Essential Pieces of a Repo**
-
-* Why we need:
-	* README
-	* CONTRIBUTING
-	* CODE OF CONDUCT
-	* LICENSE
-
-* On open access, open science, and open education ...
-
-**2:45 - 3:15: Next Steps / Taking it further** 
-
-<!--* Github Pages (gh-pages)-->
-<!--* Post-assessment -->
-<!--* Finding community -->
-* TBD
-
-**3:15 - 3:30: Close**
-
-* Wrapping up last questions, feedback, etc. 
-
-
+* Ask us questions, add more commits, set up a website. Whatever works for you.

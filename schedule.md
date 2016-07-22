@@ -4,7 +4,6 @@ Here's the roadmap for the workshop on 22nd July 2016
 
 **13:30 - 13:45 Postit session**
 
-* Presentation: [Hello & Welcome](https://docs.google.com/presentation/d/1748N8jrxLavh-JPoukLJFMNLGxdVpgiBGB0712B40LY/edit?usp=sharing)
 * An interactive discussion on:
     * Why is version control useful?
     * What do you do for version control at the moment?
